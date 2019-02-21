@@ -3,3 +3,11 @@
 http://92.240.129.118:4022/udp/232.0.3.8:1234
 #EXTINF:-1 group-title="ProxyTV.ru",19-DISNEY CHANNEL
 http://31.28.49.4:4022/udp/232.0.2.23:1234
+#EXTINF:-1 group-title="ProxyTV.ru",161-DISCOVERY CHANNEL
+http://5.254.251.177:81/udp/226.100.10.124:1234
+#EXTINF:-1 group-title="ProxyTV.ru",162-DISCOVERY CHANNEL HD
+http://5.254.251.177:81/udp/226.100.10.127:1234
+#EXTINF:-1 group-title="ProxyTV.ru",163-DISNEY CHANNEL
+http://5.254.251.177:81/udp/238.1.1.9:1234
+#EXTINF:-1 group-title="ProxyTV.ru",164-DISNEY CHANNEL
+http://5.254.251.177:81/udp/233.12.144.32:5050
