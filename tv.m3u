@@ -103,14 +103,6 @@ http://5.254.251.177:81/udp/238.1.1.36:1234
 http://5.254.251.177:81/udp/238.1.1.15:1234
 #EXTINF:-1 group-title="ProxyTV.ru",52-АИСТ
 http://5.254.251.177:81/udp/238.1.1.76:1234
-#EXTINF:-1 group-title="ProxyTV.ru",53-БЕЛРОС
-http://5.254.251.177:81/udp/226.100.10.113:1234
-#EXTINF:-1 group-title="ProxyTV.ru",54-БОБЕР
-http://5.254.251.177:81/udp/226.100.10.123:1234
-#EXTINF:-1 group-title="ProxyTV.ru",55-БОБЕР
-http://5.254.251.177:81/udp/233.12.144.45:5050
-#EXTINF:-1 group-title="ProxyTV.ru",56-ВМЕСТЕ РФ
-http://5.254.251.177:81/udp/226.100.10.110:1234
 #EXTINF:-1 group-title="ProxyTV.ru",57-ВРЕМЯ
 http://5.254.251.177:81/udp/226.100.10.121:1234
 #EXTINF:-1 group-title="ProxyTV.ru",58-ВРЕМЯ
@@ -259,20 +251,6 @@ http://5.254.251.177:81/udp/226.100.10.109:1234
 http://5.254.251.177:81/udp/238.1.1.43:1234
 #EXTINF:-1 group-title="ProxyTV.ru",130-СПАС
 http://5.254.251.177:81/udp/233.12.144.21:5050
-#EXTINF:-1 group-title="ProxyTV.ru",131-СТС
-http://5.254.251.177:81/udp/238.1.1.44:1234
-#EXTINF:-1 group-title="ProxyTV.ru",132-СТС
-http://5.254.251.177:81/udp/238.1.1.10:1234
-#EXTINF:-1 group-title="ProxyTV.ru",133-ТВ3
-http://5.254.251.177:81/udp/238.1.1.46:1234
-#EXTINF:-1 group-title="ProxyTV.ru",134-ТВ3
-http://5.254.251.177:81/udp/238.1.1.17:1234
-#EXTINF:-1 group-title="ProxyTV.ru",135-ТВЦ
-http://5.254.251.177:81/udp/238.1.1.16:1234
-#EXTINF:-1 group-title="ProxyTV.ru",136-ТВЦ
-http://5.254.251.177:81/udp/238.1.1.41:1234
-#EXTINF:-1 group-title="ProxyTV.ru",137-ТВЦ HD
-http://5.254.251.177:81/udp/238.1.1.77:1234
 #EXTINF:-1 group-title="ProxyTV.ru",138-ТЕЛЕКАФЕ
 http://5.254.251.177:81/udp/226.100.10.118:1234
 #EXTINF:-1 group-title="ProxyTV.ru",139-ТЕЛЕКАФЕ
@@ -479,12 +457,6 @@ http://31.41.97.234:81/udp/225.0.0.72:1234
 http://31.41.97.234:81/udp/225.0.0.77:1234
 #EXTINF:-1 group-title="ProxyTV.ru",241-PARAMOUNT COMEDY HD
 http://31.41.97.234:81/udp/225.0.2.22:1234
-#EXTINF:-1 group-title="ProxyTV.ru",242-PRIVATE TV
-http://31.41.97.234:81/udp/225.0.0.104:1234
-#EXTINF:-1 group-title="ProxyTV.ru",243-RTG HD
-http://31.41.97.234:81/udp/225.0.2.81:1234
-#EXTINF:-1 group-title="ProxyTV.ru",244-RU TV
-http://31.41.97.234:81/udp/225.0.0.83:1234
 #EXTINF:-1 group-title="ProxyTV.ru",245-RUSSIA TODAY DOC HD
 http://31.41.97.234:81/udp/225.0.2.37:1234
 #EXTINF:-1 group-title="ProxyTV.ru",246-RUSSIA TODAY HD
