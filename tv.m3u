@@ -1,11 +1,5 @@
 #EXTM3U list-autor="© http://ProxyTV.ru"
 #EXTINF:-1 group-title="ProxyTV.ru",32-КАРУСЕЛЬ
 http://92.240.129.118:4022/udp/232.0.3.8:1234
-#EXTINF:-1 group-title="ProxyTV.ru",176-NICK JR.
-http://5.254.251.177:81/udp/233.12.144.85:5050
-#EXTINF:-1 group-title="ProxyTV.ru",177-NICKELODEON
-http://5.254.251.177:81/udp/233.12.144.12:5050
-#EXTINF:-1 group-title="ProxyTV.ru",551-DISNEY CHANNEL
-http://176.111.67.247:1234/udp/224.1.1.30:1234
-#EXTINF:-1 group-title="ProxyTV.ru",588-DISNEY CHANNEL
-http://95.28.153.143:1234/udp/233.33.210.7:5050
+#EXTINF:-1 group-title="ProxyTV.ru",19-DISNEY CHANNEL
+http://31.28.49.4:4022/udp/232.0.2.23:1234
